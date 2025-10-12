@@ -3,6 +3,8 @@
 ## IEEE PES Tunisia Section Chapter & IEEE YP Tunisia Section Affinity Group
 ### Défi Technique TSYP13
 
+> 📚 **Navigation Rapide**: Nouveau dans ce défi? Commencez avec [INDEX.md](INDEX.md) pour une visite guidée de toute la documentation!
+
 ---
 
 ## 📋 Aperçu du Défi
